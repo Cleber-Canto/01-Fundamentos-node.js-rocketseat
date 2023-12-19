@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "50d7e773-5659-415a-a291-a0cbad3773ae",
+      "name": "Miguel04",
+      "email": "miguelsaraiva@04gmail.com",
+      "createdAt": "2023-10-25T19:12:00.710Z"
+    },
+    {
+      "id": "c69f3c12-8bf8-4e1d-ae6c-6231989e6923",
+      "name": "Cantol05",
+      "email": "cantosaraiva@05gmail.com",
+      "createdAt": "2023-10-25T19:12:47.592Z"
+    },
+    {
+      "id": "75f8bc8f-2615-411b-b7fc-b01583496f13",
+      "name": "MIguel Bernardo05",
+      "email": "bernardo@05gmail.com",
+      "createdAt": "2023-10-26T18:06:31.717Z"
+    },
+    {
+      "id": "63864d45-02e5-4cfa-8f30-1709b696561c",
+      "name": "Miguel07",
+      "email": "miguelsaraiva@07gmail.com",
+      "createdAt": "2023-10-26T18:23:59.524Z"
+    }
+  ]
+}
